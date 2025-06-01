@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 # Welcome!
 
-Hello! I’m Jina Kim. As part of KAIST’s AI810 course, I’ve been studying generative modeling and its applications.
+Hello! As part of KAIST’s AI810 course, I’ve been studying generative modeling and its applications.
 
 My research motto is to create practical societal impact through the advancement of Artificial Intelligence (AI). I'm currently learning diverse areas within AI for Science, with a particular interest in drug discovery, molecular design, and protein modeling.
 

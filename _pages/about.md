@@ -18,11 +18,11 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 # Welcome!
-UPDATE!!
+
 Hello! I’m Jina Kim. As part of KAIST’s AI810 course, I’ve been studying generative modeling and its applications.
 
-My research motto is to create practical societal impact through the advancement of Artificial Intelligence (AI). I'm currently exploring diverse areas within AI for Science, with a particular interest in drug discovery, molecular design, and protein modeling.
+My research motto is to create practical societal impact through the advancement of Artificial Intelligence (AI). I'm currently learning diverse areas within AI for Science, with a particular interest in drug discovery, molecular design, and protein modeling.
 
-This blog post is part of my broader effort to deeply understand and communicate frontier research in generative modeling. I chose to study and compare two works—“Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations” and “Exploring Chemical Space with Score-based Out-of-distribution Generation”—because they present theoretically grounded and practically relevant frameworks for modeling structured data like molecular graphs, which aligns closely with my research interests.
+In this blog post, I chose to study two works, **"Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations"** and **"Exploring Chemical Space with Score-based Out-of-distribution Generation"**, because they present theoretically grounded and practically relevant frameworks for modeling structured data like molecular graphs, which aligns closely with my research interests. Since the work "Exploring Chemical Space with Score-based Out-of-distribution Generation" builds upon the methodology introduced in "Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations", the latter blog post is recommended to be read first for clearer understanding.
 
-Now, let’s dive in—hope you enjoy this exploration! :)
+Now, let’s dive in - hope you enjoy this exploration! :)
